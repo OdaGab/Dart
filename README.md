@@ -32,3 +32,5 @@ Para executar o projeto, use o seguinte comando:
 ```bash
 dart run hello_world.dart
 ```
+
+02 - Variáveis

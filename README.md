@@ -38,3 +38,5 @@ dart run hello_world.dart
 01 - O Famoso Hello World
 
 02 - Variáveis
+
+03 - Exemplo de variáveis String, int e double

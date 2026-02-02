@@ -33,4 +33,8 @@ Para executar o projeto, use o seguinte comando:
 dart run hello_world.dart
 ```
 
+## Exemplos a serem estudados
+
+01 - O Famoso Hello World
+
 02 - Variáveis

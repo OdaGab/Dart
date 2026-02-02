@@ -46,3 +46,5 @@ dart run hello_world.dart
 05 - Interagindo com o usuário
 
 06 - Resolvendo o problema da potenciação
+
+07 - Exibe em notação científica
